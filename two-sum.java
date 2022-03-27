@@ -11,6 +11,7 @@ public int[] twoSum(int[] numbers, int target) {
         map.put(numbers[i], i);
     }
     
+    System.out.println("Checking in the code man");
     return result;
 }
 }
